@@ -23,8 +23,6 @@ pip3 install entrypoints
 pip3 install eventkit               
 pip3 install httplib2               
 pip3 install hyperlink              
-pip3 install ib-insync              
-pip3 install ibapi                  
 pip3 install idna                   
 pip3 install importlib-metadata     
 pip3 install incremental            
@@ -100,5 +98,4 @@ pip3 install pymongo
 pip3 install asyncio
 pip3 install motor
 pip3 install influxdb-client
-pip3 install ta-lib
 pip3 install pika
