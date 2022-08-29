@@ -99,3 +99,4 @@ pip3 install asyncio
 pip3 install motor
 pip3 install influxdb-client
 pip3 install pika
+pip3 install mariadb
