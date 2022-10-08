@@ -100,3 +100,4 @@ pip3 install motor
 pip3 install influxdb-client
 pip3 install pika
 pip3 install mariadb
+pip3 install awsebcli
